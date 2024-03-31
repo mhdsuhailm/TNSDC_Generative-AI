@@ -41,7 +41,7 @@ Result:
 Video for showing improvement Generator
 ----
 
-[Link to video](https://github.com/soham2707/ARTGAN/blob/master/art_gans_training.avi)
+[Link to video](https://github.com/mhdsuhailm/TNSDC_Generative-AI/blob/main/art_gans_training%20(1).avi)
 
 
 Conclusion
